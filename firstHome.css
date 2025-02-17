@@ -1,0 +1,32 @@
+body {
+    background-color: blue;
+}
+
+.app {
+    display: flex;
+    padding: 0px 10px 0px 0px;
+    width: 98%;
+    margin: 0px auto;
+    background-color: white;
+    border: 1px black solid;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.szoveg {
+    font-size: 30px;
+    padding: 10px;
+}
+
+.kozep {
+    padding: 10px;
+}
+
+.káefffffcéé{
+    margin-top: 20px;
+
+}
+
